@@ -5,4 +5,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,bots,stackoverflow)](https://github.com/illusionTBA)
 <br>
 <br>
-im bored sometimes
+im bored and make stuff
