@@ -2,7 +2,7 @@
 <br>
 <br>
 ## Knows / learning :
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,bots,stackoverflow,react,nextjs,prisma,tailwind,go,discord)](https://github.com/illusionTBA)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,bots,stackoverflow,react,nextjs,prisma,tailwind,discord)](https://github.com/illusionTBA)
 <br>
 <br>
 
